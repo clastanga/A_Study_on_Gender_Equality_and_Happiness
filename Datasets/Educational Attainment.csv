@@ -1,0 +1,154 @@
+E_rank,country,E_score
+40,Albania,0.999
+109,Algeria,0.966
+147,Angola,0.759
+64,Argentina,0.995
+45,Armenia,0.998
+1,Australia,1.000
+1,Austria,1.000
+60,Azerbaijan,0.996
+1,Bahamas,1.000
+90,Bahrain,0.985
+120,Bangladesh,0.951
+79,Barbados,0.991
+39,Belarus,0.999
+1,Belgium,1.000
+78,Belize,0.991
+149,Benin,0.733
+116,Bhutan,0.954
+96,Bolivia,0.980
+108,Bosnia Herzegovina,0.967
+1,Botswana,1.000
+35,Brazil,1.000
+72,Brunei Darussalam,0.992
+85,Bulgaria,0.989
+138,Burkina Faso,0.873
+131,Burundi,0.896
+124,Cambodia,0.939
+136,Cameroon,0.885
+1,Canada,1.000
+104,Cape Verde,0.972
+153,Chad,0.589
+30,Chile,1.000
+100,China,0.973
+1,Colombia,1.000
+152,Congo,0.658
+33,Costa Rica,1.000
+62,Croatia,0.995
+142,Côte d'Ivoire,0.828
+44,Cuba,0.998
+48,Cyprus,0.998
+1,Czech Republic,1.000
+1,Denmark,1.000
+42,Dominican Republic,0.998
+56,Ecuador,0.997
+102,Egypt,0.973
+75,El Salvador,0.992
+1,Estonia,1.000
+140,Ethiopia,0.850
+51,Fiji,0.997
+1,Finland,1.000
+1,France,1.000
+134,Gambia,0.891
+29,Georgia,1.000
+103,Germany,0.972
+119,Ghana,0.951
+69,Greece,0.993
+107,Guatemala,0.969
+151,Guinea,0.680
+1,Honduras,1.000
+70,Hungary,0.993
+36,Iceland,0.999
+112,India,0.962
+105,Indonesia,0.970
+118,Iran,0.953
+144,Iraq,0.812
+47,Ireland,0.998
+1,Israel,1.000
+55,Italy,0.997
+1,Jamaica,1.000
+91,Japan,0.983
+81,Jordan,0.991
+63,Kazakhstan,0.995
+126,Kenya,0.938
+101,Korea,0.973
+57,Kuwait,0.997
+82,Kyrgyz Republic,0.990
+110,Laos,0.965
+1,Latvia,1.000
+111,Lebanon,0.964
+1,Lesotho,1.000
+141,Liberia,0.839
+50,Lithuania,0.998
+1,Luxembourg,1.000
+87,Macedonia,0.988
+95,Madagascar,0.980
+128,Malawi,0.915
+86,Malaysia,0.989
+1,Maldives,1.000
+148,Mali,0.757
+1,Malta,1.000
+137,Mauritania,0.879
+74,Mauritius,0.992
+54,Mexico,0.997
+61,Moldova,0.996
+71,Mongolia,0.993
+49,Montenegro,0.998
+115,Morocco,0.956
+130,Mozambique,0.904
+99,Myanmar,0.975
+32,Namibia,1.000
+133,Nepal,0.895
+1,Netherlands,1.000
+1,New Zealand,1.000
+1,Nicaragua,1.000
+145,Nigeria,0.806
+31,Norway,1.000
+97,Oman,0.977
+143,Pakistan,0.823
+65,Panama,0.994
+132,Papua New Guinea*,0.895
+46,Paraguay,0.998
+94,Peru,0.981
+37,Philippines,0.999
+58,Poland,0.996
+73,Portugal,0.992
+83,Qatar,0.990
+52,Romania,0.997
+1,Russia,1.000
+114,Rwanda,0.957
+92,Saudi Arabia,0.983
+135,Senegal,0.888
+53,Serbia,0.997
+139,Sierra Leone,0.860
+84,Singapore,0.990
+1,Slovakia,1.000
+27,Slovenia,1.000
+67,South Africa,0.994
+43,Spain,0.998
+88,Sri Lanka,0.988
+68,Suriname,0.993
+76,Swaziland,0.992
+59,Sweden,0.996
+77,Switzerland,0.992
+117,Syria,0.953
+123,Tajikistan,0.942
+127,Tanzania,0.921
+80,Thailand,0.991
+122,Timor-Leste,0.946
+146,Togo,0.778
+66,Trinidad and Tobago*,0.994
+106,Tunisia,0.970
+113,Turkey,0.961
+129,Uganda,0.914
+26,Ukraine,1.000
+89,United Arab Emirates,0.987
+38,United Kingdom,0.999
+34,United States,1.000
+28,Uruguay,1.000
+121,Vanuatu*,0.947
+41,Venezuela,0.998
+93,Vietnam,0.982
+150,Yemen,0.717
+125,Zambia*,0.938
+98,Zimbabwe,0.977
