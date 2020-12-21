@@ -57,4 +57,4 @@ The repository is organised into 4 different folders:
 
 ## Links
 [Repository](https://github.com/clastanga/A_Study_on_Gender_Equality_and_Happiness)  
-[Tableau Public(viz)](https://public.tableau.com/profile/claudia1368#!/vizhome/Final_Project_2_16079003596600/FinalPresentation?publish=yes)  
+[Tableau Public(viz)](https://public.tableau.com/profile/claudia1368#!/vizhome/Final_Project_2_16079003596600/cover)  
